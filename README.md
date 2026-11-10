@@ -1,4 +1,4 @@
-# 🚀 Sci-Fi Survival Project - 3D Sci-Fi Survival FPS Template for Godot 4.x
+# 🚀 Sci-----Fi Survival Project - 3D Sci-Fi Survival FPS Template for Godot 4.x
 
 [![Godot Engine](https://img.shields.io/badge/Godot-4.6%2B-blue.svg)](https://godotengine.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
